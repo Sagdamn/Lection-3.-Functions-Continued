@@ -1,0 +1,15 @@
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/bin/Debug/net6.0/Ex012_Methods
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/bin/Debug/net6.0/Ex012_Methods.deps.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/bin/Debug/net6.0/Ex012_Methods.runtimeconfig.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/bin/Debug/net6.0/Ex012_Methods.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/bin/Debug/net6.0/Ex012_Methods.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/obj/Debug/net6.0/Ex012_Methods.csproj.AssemblyReference.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/obj/Debug/net6.0/Ex012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/obj/Debug/net6.0/Ex012_Methods.AssemblyInfoInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/obj/Debug/net6.0/Ex012_Methods.AssemblyInfo.cs
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/obj/Debug/net6.0/Ex012_Methods.csproj.CoreCompileInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/obj/Debug/net6.0/Ex012_Methods.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/obj/Debug/net6.0/refint/Ex012_Methods.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/obj/Debug/net6.0/Ex012_Methods.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/obj/Debug/net6.0/Ex012_Methods.genruntimeconfig.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/lection 3/Ex012_Methods/obj/Debug/net6.0/ref/Ex012_Methods.dll
